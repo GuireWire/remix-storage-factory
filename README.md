@@ -1,4 +1,7 @@
-This is part of the Cyfrin Solidity Blockchain Course.
+This is part of the Cyfrin Solidity Blockchain Course. Specifically Course 2 Section 2.
+
+## Course 2 - Section 2 Lesson (NFT)
+Transaction Hash: 0xcec78759a264c36efbaa388c962c13bd30dc2a50164b459c58230a6ba1e4dced
 
 ## Deployed Contracts
 
